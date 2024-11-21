@@ -1,0 +1,7 @@
+body {
+    background: linear-gradient(to right, rgb(212, 226, 57 ), rgb(69, 97, 240) );
+}
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
